@@ -1,5 +1,0 @@
-print("******************************************")
-print("PROGRAM PYTHON")
-print("OLEH: BAMA MAULANA WIBISANA")
-print("KELAS: X PPLG 2")
-print("******************************************")
