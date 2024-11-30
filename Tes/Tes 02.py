@@ -14,4 +14,4 @@ elif inputan >= 51 and inputan <= 100:
     elif inputan >= 76 and inputan <= 100:
         print("B2")
 
-# Waktu pengerjaan 8 menit.
+# Waktu pengerjaan 4 menit.
