@@ -1,1 +1,2 @@
 # Python-Exercise
+The Python-Exercise repo is curated as a learning toolkit for anyone looking to strengthen their Python skills. All scripts rely solely on Python’s built‑ins, ensuring compatibility and simplicity. From basic I/O and arithmetic to more advanced patterns like lambdas and control flow, each folder houses related problems to solve.
