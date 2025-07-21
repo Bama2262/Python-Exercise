@@ -1,2 +1,55 @@
-# Python-Exercise
-The Python-Exercise repo is curated as a learning toolkit for anyone looking to strengthen their Python skills. All scripts rely solely on Python’s built‑ins, ensuring compatibility and simplicity. From basic I/O and arithmetic to more advanced patterns like lambdas and control flow, each folder houses related problems to solve.
+# 🐍 Python Exercise
+
+This repository contains a collection of basic Python programming exercises intended for practice, learning, and improving problem-solving skills.
+
+---
+
+## 📚 Contents
+
+- Beginner-friendly exercises
+- Topics may include:
+  - Variables and data types
+  - Loops and conditionals
+  - Functions
+  - Lists, dictionaries, and sets
+  - String manipulation
+  - Basic algorithm challenges
+
+> Each file is self-contained and focuses on one or more core Python concepts.
+
+---
+
+## 🛠️ How to Use
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/Bama2262/Python-Exercise.git
+   cd Python-Exercise
+
+2. **Run an exercise:**
+
+    ```bash
+    python exercise_name.py
+
+---
+
+## 🎯 Purpose
+
+This project is designed to:
+- Help beginners practice and strengthen their Python skills
+- Provide simple and practical examples of core programming concepts
+- Serve as a foundation for more advanced projects
+
+---
+
+## 🤝 Contributing
+
+Feel free to fork this repository and add your own exercises, or improve existing ones!
+
+---
+
+## 📌 Notes
+
+- No external libraries required (pure Python)
+- Compatible with Python 3.x
