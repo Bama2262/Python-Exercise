@@ -15,8 +15,6 @@ This repository contains a collection of basic Python programming exercises inte
   - String manipulation
   - Basic algorithm challenges
 
-> Each file is self-contained and focuses on one or more core Python concepts.
-
 ---
 
 ## 🛠️ How to Use
